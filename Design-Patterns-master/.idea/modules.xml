@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Decorator_Pattern/Decorator_Pattern.iml" filepath="$PROJECT_DIR$/Decorator_Pattern/Decorator_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modified_Duck/Modified_Duck.iml" filepath="$PROJECT_DIR$/Modified_Duck/Modified_Duck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP &amp; Design Patterns.iml" filepath="$PROJECT_DIR$/OOP &amp; Design Patterns.iml" />
+    </modules>
+  </component>
+</project>
